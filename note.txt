@@ -1,0 +1,35 @@
+git push origin "branchname nam"
+git config --global user.name "your_username"
+git config --global user.email "your_email_address@example.com"
+git add .
+git commit -m
+git push
+
+
+
+====Starting git
+
+ cd /home
+$ git init
+git add
+git log
+
+
+**Working directory
+
+**Staging area
+
+git add <file name>	
+
+**Repository
+
+
+
+    git init creates a new Git repository
+    git status inspects the contents of the working directory and staging area
+    git add adds files from the working directory to the staging area
+    git diff shows the difference between the working directory and the staging area
+    git commit permanently stores file changes from the staging area in the repository
+    git log shows a list of all previous commits
+
+/c/Users/NAMUNA/OneDrive/GIT
