@@ -1,3 +1,4 @@
+-This is first update day-1
 git push origin "branchname nam"
 git config --global user.name "your_username"
 git config --global user.email "your_email_address@example.com"
